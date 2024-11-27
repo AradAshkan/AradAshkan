@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ❤️Love:🎮 & <\>
 
 - 🔭 I’m currently working on [Alpha Service (v2Ray)](https://discord.gg/KWpWrrCYvn) & [Persian Shop](https://discord.gg/EG6j7Z5Uum)
-- 🌱 I’m currently learning Visual Basic & PHP
+- 🌱 I’m currently learning React Js
 - 💬 Ask me about Python & Javascript
 
 <img src="https://discord.c99.nl/widget/theme-1/722950867996639243.png" alt="Arad AShkan">
