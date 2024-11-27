@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on [Alpha Service (v2Ray)](https://discord.gg/KWpWrrCYvn) & [Persian Shop](https://discord.gg/EG6j7Z5Uum)
+- 🌱 I’m currently learning Visual Basic & PHP
+- 💬 Ask me about Python & Javascript
 
+  
 ### My Discord Server
 [![Discord](https://img.shields.io/discord/869263706339565578?style=for-the-badge&logo=discord&logoColor=white&label=Discord&color=blue)](https://discord.gg/C9DXtRESa8)
