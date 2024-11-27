@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 👼🏻November 17 
+- 💻Software Developer 
+- 👨‍💻 Programmer
+- ❤️Love:🎮 & <\>
+
 - 🔭 I’m currently working on [Alpha Service (v2Ray)](https://discord.gg/KWpWrrCYvn) & [Persian Shop](https://discord.gg/EG6j7Z5Uum)
 - 🌱 I’m currently learning Visual Basic & PHP
 - 💬 Ask me about Python & Javascript
