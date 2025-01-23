@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 👨‍💻 Programmer
 - ❤️Love:🎮 & <\>
 
-- 🔭 I’m currently working on [Alpha Service (v2Ray)](https://discord.gg/KWpWrrCYvn) & [Persian Shop](https://discord.gg/EG6j7Z5Uum)
+- 🔭 I’m currently working on /
 - 🌱 I’m currently learning React Js
 - 💬 Ask me about Python & Javascript
 
