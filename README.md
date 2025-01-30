@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 👼🏻November 17 
 - 💻Software Developer 
 - 👨‍💻 Programmer
-- ❤️Love:🎮 & <\>
+- ❤️Love:🎮 & </>
 
 - 🔭 I’m currently working on /
 - 🌱 I’m currently learning React Js
