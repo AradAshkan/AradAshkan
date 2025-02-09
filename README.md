@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 -->
 
 ## ⚡ Streak Stats & Most Used Languages ⚡
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aradashkan&layout=compact&theme=dark" alt="Most used lang"> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aradashkan&theme=youtube-dark&short_numbers=true)](https://github.com/aradashkan) 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aradashkan&layout=compact&theme=dark" alt="Most used lang"> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aradashkan&theme=youtube-dark&short_numbers=true&card_height=95)](https://github.com/aradashkan) 
 
 <!--
 ### My Discord Server
