@@ -25,5 +25,13 @@ Here are some ideas to get you started:
 
 <img src="https://discord.c99.nl/widget/theme-1/722950867996639243.png" alt="Arad AShkan">
 
+## 
+
+
+## ⚡ Streak Stats & Most Used Languages ⚡
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aradashkan&layout=compact&theme=dark" alt="Most used lang"> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aradashkan&theme=youtube-dark&short_numbers=true)](https://github.com/aradashkan) 
+
+<!--
 ### My Discord Server
 [![Discord](https://img.shields.io/discord/869263706339565578?style=for-the-badge&logo=discord&logoColor=white&label=Discord&color=blue)](https://discord.gg/C9DXtRESa8)
+--!>
