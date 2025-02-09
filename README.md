@@ -13,15 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🌱 I’m currently learning React Js
+- 💬 Ask me about Python & Javascript
 -->
 - 👼🏻November 17 
 - 💻Software Developer 
 - 👨‍💻 Programmer
 - ❤️Love:🎮 & </>
-
 - 🔭 I’m currently working on Gamevibe.ir
-- 🌱 I’m currently learning React Js
-- 💬 Ask me about Python & Javascript
 
 <!--
 <img src="https://discord.c99.nl/widget/theme-1/722950867996639243.png" alt="Arad AShkan"> 
