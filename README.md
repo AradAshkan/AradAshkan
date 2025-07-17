@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning React Js
 - 💬 Ask me about Python & Javascript
 -->
-- 👼🏻November 17 
+- 👼🏻November 17
+- 🌱IT System Administrator
 - 💻Software Developer 
 - 👨‍💻 Programmer
 - ❤️Love:🎮 & </>
