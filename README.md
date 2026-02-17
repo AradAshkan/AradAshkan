@@ -1,4 +1,8 @@
 ## Hi there 👋
+<details>
+  <summary>Javid Shah</summary>
+ <img width="750" height="450" alt="LightMode" src="https://i.pinimg.com/736x/1c/b3/e0/1cb3e0947c2a662a1cc960a07e19d17b.jpg"/>
+</details>
 
 <!--
 **arad2000/arad2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
