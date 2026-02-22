@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🌱IT System Administrator
 - 💻Software Developer 
 - 👨‍💻 Programmer
-- 🔭 I’m currently working on Majestic Rp
+- 🔭 I’m currently working with Majestic Rp
   
 <img src="https://discord.c99.nl/widget/theme-2/1331381499290845224.png" alt="Arad AShkan"> <!-- <img src="https://discord.c99.nl/widget/theme-1/722950867996639243.png" alt="Arad AShkan"> -->
 
